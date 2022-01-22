@@ -18,6 +18,20 @@ suitable for nearly anything.
 | purple | #AD4ED2 | Medium Orchid | ![Medium Orchid](https://via.placeholder.com/24/AD4ED2/000000?text=+) |
 | brown | #776550 | Raw Umber | ![Raw Umber](https://via.placeholder.com/24/776550/000000?text=+) |
 
+#### pastel colors
+Not really in the vibes of the summer color palette, but still it is helpful to have softer hues sometimes.
+| Color | Hex value | Coolors Name | Preview |
+| ----- | --------- | ------------ | ------- |
+| pastel_red | #D95473 | Blush | ![Blush](https://via.placeholder.com/24/D95473/000000?text=+) |
+| pastel_orange | #E6A168 | Sandy Brown | ![Sandy Brown](https://via.placeholder.com/24/E6A168/000000?text=+) |
+| pastel_yellow | #E7CA62 | Orange Yellow Crayola | ![Orange Yellow Crayola](https://via.placeholder.com/24/E7CA62/000000?text=+) |
+| pastel_lime | #B6DA74 | Yellow Green Crayola | ![Yellow Green Crayola](https://via.placeholder.com/24/B6DA74/000000?text=+) |
+| pastel_green | #78D4A3 | Medium Aquamarine | ![Medium Aquamarine](https://via.placeholder.com/24/78D4A3/000000?text=+) |
+| pastel_sky | #65CEDC | Sky Blue Crayola | ![Sky Blue Crayola](https://via.placeholder.com/24/65CEDC/000000?text=+) |
+| pastel_blue | #64A8D8 | Iceberg | ![Iceberg](https://via.placeholder.com/24/64A8D8/000000?text=+) |
+| pastel_purple | #BC82D3 | Lavender Floral | ![Lavender Floral](https://via.placeholder.com/24/BC82D3/000000?text=+) |
+| pastel_brown | #AA9277 | Grullo | ![Grullo](https://via.placeholder.com/24/AA9277/000000?text=+) |
+
 #### Neutral colors
 for backgrounds and neutral stuff.
 | Color | Hex value | Coolors Name | Preview |
