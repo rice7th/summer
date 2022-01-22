@@ -28,7 +28,12 @@ for backgrounds and neutral stuff.
 | light_gray | #AEB7B6 | Silver Sand | ![Silver Sand](https://via.placeholder.com/24/AEB7B6/000000?text=+) |
 | light | #D8E2E1 | Gainsboro | ![Gainsboro](https://via.placeholder.com/24/D8E2E1/000000?text=+) |
 
-#### NOTE
-primary color is `lime` (aka `Green RYB`) , the secondary `sky` (aka `Pacific Blue`)
+## Default colors
 
-Hence, these are the colors of this palette:
+primary/accent color:  ![Green RYB](https://via.placeholder.com/16/7CBD27/000000?text=+) `lime`
+
+secondary color:  ![Pacific Blue](https://via.placeholder.com/16/32B5C7/000000?text=+) `sky`
+
+urgent color:  ![Rusty Red](https://via.placeholder.com/16/CF3746/000000?text=+) `red`
+
+default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+) `dark`
