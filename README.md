@@ -32,6 +32,9 @@ Not really in the vibes of the summer color palette, but still it is helpful to 
 | pastel_purple | #BC82D3 | Lavender Floral | ![Lavender Floral](https://via.placeholder.com/24/BC82D3/000000?text=+) |
 | pastel_brown | #AA9277 | Grullo | ![Grullo](https://via.placeholder.com/24/AA9277/000000?text=+) |
 
+### NOTE
+##### No summer pastel based color schemes! The summer color palette is made to be vibrant, the pastel counterpart is used, for example, in terminal "bright colors", when a lighter counterpart is NEEDED. If you want a pastel color scheme, check out [catpuccin](https://github.com/catppuccin/catppuccin)
+
 #### Neutral colors
 for backgrounds and neutral stuff.
 | Color | Hex value | Coolors Name | Preview |
