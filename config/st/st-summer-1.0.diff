@@ -1,0 +1,65 @@
+--- config1.h	2022-01-23 14:35:51.050952910 +0100
++++ config.def.h	2022-01-23 14:34:32.930955183 +0100
+@@ -95,36 +95,34 @@
+ 
+ /* Terminal colors (16 first used in escape sequence) */
+ static const char *colorname[] = {
+-	/* 8 normal colors */
+-	"black",
+-	"red3",
+-	"green3",
+-	"yellow3",
+-	"blue2",
+-	"magenta3",
+-	"cyan3",
+-	"gray90",
+-
+-	/* 8 bright colors */
+-	"gray50",
+-	"red",
+-	"green",
+-	"yellow",
+-	"#5c5cff",
+-	"magenta",
+-	"cyan",
+-	"white",
+-
+-	[255] = 0,
+-
+-	/* more colors can be added after 255 to use with DefaultXX */
+-	"#cccccc",
+-	"#555555",
+-	"gray90", /* default foreground colour */
+-	"black", /* default background colour */
++        /* 8 normal colors */
++  [0] = "#1d1f21", /* black   */
++  [1] = "#CF3746", /* red     */
++  [2] = "#7CBD27", /* green   */
++  [3] = "#ECBD10", /* yellow  */
++  [4] = "#277AB6", /* blue    */
++  [5] = "#AD4ED2", /* magenta */
++  [6] = "#32B5C7", /* cyan    */
++  [7] = "#D8E2E1", /* white   */
++
++        /* 8 normal colors */
++  [8] = "#292A2B", /* black   */
++  [9] = "#D95473", /* red     */
++  [10] = "#B6DA74", /* green   */
++  [11] = "#E7CA62", /* yellow  */
++  [12] = "#64A8D8", /* blue    */
++  [13] = "#BC82D3", /* magenta */
++  [14] = "#65CEDC", /* cyan    */
++  [15] = "#EBF6F5", /* white   */
++
++  [255] = 0,
++        /* special colors */
++  [256] = "#cccccc",
++  [257] = "#555555",
++  [258] = "#AEB7B6", /* foreground */
++  [259] = "#292A28", /* background */
+ };
+ 
+-
+ /*
+  * Default colors (colorname index)
+  * foreground, background, cursor, reverse cursor
