@@ -51,3 +51,8 @@ secondary color:  ![Pacific Blue](https://via.placeholder.com/16/32B5C7/000000?t
 urgent color:  ![Rusty Red](https://via.placeholder.com/16/CF3746/000000?text=+) `red`
 
 default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+) `dark`
+
+# Recommended Fonts
+### Sans Serif: [Inter](https://fonts.google.com/specimen/Inter?query=inter)
+### Serif: [Zilla Slab](https://fonts.google.com/specimen/Zilla+Slab?query=zilla+sl)
+### Monospace: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
