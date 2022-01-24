@@ -1,34 +1,49 @@
 We created this so that you can be faster in theming a program that we have not already themed in the config/ folder of this repository.
 
-red	#CF3746
+
+~~~ VIBRANT COLORS ~~~
+main color of the summer palette
+
+red	    #CF3746
 orange	#DF7C2C
 yellow	#ECBD10
-lime	#7CBD27
-green	#41A36F
-sky	#32B5C7
-blue	#277AB6
+lime   	#7CBD27
+green  	#41A36F
+sky   	#32B5C7
+blue	  #277AB6
 purple	#AD4ED2
-brown	#776550
-~~~
-pastel_red	#D95473
+brown 	#776550
+
+
+~~~ PASTEL COLORS ~~~
+used as secondary colors or bright colors in terminals
+
+pastel_red	  #D95473
 pastel_orange	#E6A168
 pastel_yellow	#E7CA62
-pastel_lime	#B6DA74
+pastel_lime	  #B6DA74
 pastel_green	#78D4A3
-pastel_sky	#65CEDC
-pastel_blue	#64A8D8
+pastel_sky  	#65CEDC
+pastel_blue 	#64A8D8
 pastel_purple	#BC82D3
 pastel_brown	#AA9277
-~~~
-darker		#1D1D1D
-dark		#292A2B
-gray		#626861
+
+
+~~~ NEUTRAL COLORS ~~~
+used for backgrounds and foregrounds, text color, etc.
+
+darker	   	#1D1D1D
+dark	    	#292A2B
+gray	    	#626861
 light_gray	#AEB7B6
-light		#D8E2E1
-~~~
-Defaults
-primary/accent color:	Lime	#7CBD27
-secondary color:	Sky	#32B5C7
-urgent color:		Red	#CF3746
-background:		Dark	#292A2B
+light	    	#D8E2E1
+
+
+~~~ DEFAULT COLORS ~~~
+being a summer theme palette, obviously Lime and Sky are the main colors.
+primary/accent color:	lime  #7CBD27
+secondary color:	    sky	  #32B5C7
+urgent color:	      	red	  #CF3746
+background:		        dark  #292A2B
+text color:           light #D8E2E1
 ~~~
