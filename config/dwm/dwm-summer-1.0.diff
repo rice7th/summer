@@ -1,0 +1,39 @@
+--- config1.def.h	2022-01-24 13:10:19.422438789 +0100
++++ config.def.h	2022-01-24 13:13:33.811433134 +0100
+@@ -1,5 +1,19 @@
+ /* See LICENSE file for copyright and license details. */
+ 
++/* summer color scheme */
++/* Put instead of LIME the color you want from the list below, */
++/* It will change the accent color accordingly */
++#define ACCENT_COLOR "LIME"
++const char RED[]       = "#CF3746";
++const char ORANGE[]    = "#DF7C2C";
++const char YELLOW[]    = "#ECBD10";
++const char LIME[]      = "#7CBD27";
++const char GREEN[]     = "#41A36F";
++const char SKY[]       = "#32B5C7";
++const char BLUE[]      = "#277AB6";
++const char PURPLE[]    = "#AD4ED2";
++const char BROWN[]     = "#776550";
++
+ /* appearance */
+ static const unsigned int borderpx  = 1;        /* border pixel of windows */
+ static const unsigned int snap      = 32;       /* snap pixel */
+@@ -7,11 +21,11 @@
+ static const int topbar             = 1;        /* 0 means bottom bar */
+ static const char *fonts[]          = { "monospace:size=10" };
+ static const char dmenufont[]       = "monospace:size=10";
+-static const char col_gray1[]       = "#222222";
+-static const char col_gray2[]       = "#444444";
+-static const char col_gray3[]       = "#bbbbbb";
+-static const char col_gray4[]       = "#eeeeee";
+-static const char col_cyan[]        = "#005577";
++static const char col_gray1[]       = "#292A2B";
++static const char col_gray2[]       = "#1D1D1D";
++static const char col_gray3[]       = "#AEB7B6";
++static const char col_gray4[]       = "#D8E2E1";
++static const char col_cyan[]        = ACCENT_COLOR;
+ static const char *colors[][3]      = {
+ 	/*               fg         bg         border   */
+ 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
