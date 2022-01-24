@@ -1,0 +1,28 @@
+--- config1.def.h	2022-01-24 14:37:53.720285924 +0100
++++ config.def.h	2022-01-24 14:38:30.770284846 +0100
+@@ -7,10 +7,23 @@
+ 	"monospace:size=10"
+ };
+ static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
++/* summer color scheme */
++/* Put instead of LIME the color you want from the list below, */
++/* It will change the accent color accordingly */
++#define ACCENT_COLOR "LIME"
++const char RED[]       = "#CF3746";
++const char ORANGE[]    = "#DF7C2C";
++const char YELLOW[]    = "#ECBD10";
++const char LIME[]      = "#7CBD27";
++const char GREEN[]     = "#41A36F";
++const char SKY[]       = "#32B5C7";
++const char BLUE[]      = "#277AB6";
++const char PURPLE[]    = "#AD4ED2";
++const char BROWN[]     = "#776550";
+ static const char *colors[SchemeLast][2] = {
+ 	/*     fg         bg       */
+-	[SchemeNorm] = { "#bbbbbb", "#222222" },
+-	[SchemeSel] = { "#eeeeee", "#005577" },
++	[SchemeNorm] = { "#AEB7B6", "#292A2B" },
++	[SchemeSel] = { "#D8E2E1", ACCENT_COLOR },
+ 	[SchemeOut] = { "#000000", "#00ffff" },
+ };
+ /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
