@@ -59,3 +59,13 @@ default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+)
 ### Sans Serif: [Inter](https://fonts.google.com/specimen/Inter?query=inter)
 ### Serif: [Zilla Slab](https://fonts.google.com/specimen/Zilla+Slab?query=zilla+sl)
 ### Monospace: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+# Credits
+
+| Program | Creator |
+| ------- | ------- |
+| Alacritty | [JhonnyRice](https://github.com/jhonnyrice) |
+| AwesomeWM | [JhonnyRice](https://github.com/jhonnyrice) |
+| dwm | [Francicoria](https://github.com/francicoria) |
+| st | [Francicoria](https://github.com/francicoria) |
+| dmenu | [Francicoria](https://github.com/francicoria) |
