@@ -69,4 +69,5 @@ default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+)
 | dwm | [Francicoria](https://github.com/francicoria) |
 | st | [Francicoria](https://github.com/francicoria) |
 | dmenu | [Francicoria](https://github.com/francicoria) |
+
 If a program you use is not listed here and you want to create a config file to use the palette, the [palette file](https://github.com/JhonnyRice/summer/blob/main/palette) is there to help you. Once you have themed it, please create a pull request to add the program config to the [config/ folder](https://github.com/JhonnyRice/summer/tree/main/config) and we will add your name to the list above.
