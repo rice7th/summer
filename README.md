@@ -1,5 +1,7 @@
 # summer
 the summer color palette: a vibrant, chill and fresh tropical palette created as a competitor to other palettes such as gruvbox, nord and catpuccin, while keeping its own originality.
+## NOTE: THIS IS A PRE-ALPHA
+Dont expect this to have all configs pre-made!
 
 # Colors
 
