@@ -69,7 +69,7 @@ default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+)
 | Alacritty | [JhonnyRice](https://github.com/jhonnyrice) |
 | AwesomeWM | [JhonnyRice](https://github.com/jhonnyrice) |
 | i3 | [JhonnyRice](https://github.com/jhonnyrice) |
-| iTerm2 | [JhonnyRice](https://github.com/jhonnyrice) |
+| iTerm2 | [Shahmilav](https://github.com/shahmilav) |
 | dwm | [Francicoria](https://github.com/francicoria) |
 | st | [Francicoria](https://github.com/francicoria) |
 | dmenu | [Francicoria](https://github.com/francicoria) |
