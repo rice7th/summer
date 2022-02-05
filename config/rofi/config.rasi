@@ -1,0 +1,90 @@
+configuration {
+    modi:		   "drun";
+    font:		   "Roboto Medium 10";
+    show-icons:		   true;
+    sidebar-mode: 	   false;
+    display-drun: 	   "";
+    drun-display-format:   "{name}";
+}
+
+@import "colors.rasi"
+
+* {
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+
+window {
+    background-color:	@bg;
+    border: 		0;
+}
+
+prompt, entry { 
+    text-color:		@fg;
+}
+
+prompt {
+    font:		"Font Awesome 5 Free 11";
+    vertical-align:	0.5;
+}
+
+entry {
+    placeholder:	"Search Applications";
+    placeholder-color:	@fg;
+    font: 		"Roboto 11";
+    border-color:	@alt;
+}
+
+inputbar {
+    spacing: 		16px;
+    padding:		12px 16px;
+    
+    children:		[prompt, entry];
+}
+
+
+listview {
+   spacing:		4px;
+   lines:		10;
+   padding:		0 0 12px 0;
+   border: 		0;
+}
+
+scrollbar {
+    width: 		1px;
+    border:		0;
+    handle-width:	8px;
+    handle-color: 	@pr; 
+    padding:		0px;
+    background-color:	@alt;
+}
+
+textbox {
+   text-color:		@fg;
+   padding:		12px 16px;
+}
+
+element {
+    padding:		8px 16px;
+    spacing:		16px;
+    border-radius: 	8px;
+}
+
+element.normal.normal, element.alternate.normal {
+    background-color: 	@bg;
+    text-color:		@fg;
+}
+
+element.selected.normal {
+    background-color:	@pr;
+    text-color:		@bg;
+}
+
+element.normal.urgent, 
+element.alternate.urgent,
+element.selected.urgent {
+    background-color:	@ur;
+    text-color:		@bg;
+}
