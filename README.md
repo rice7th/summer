@@ -67,9 +67,9 @@ default background:  ![Jet](https://via.placeholder.com/16/292A2B/000000?text=+)
 | Program | Creator |
 | ------- | ------- |
 | The whole GTK section | [Joshuaelmbla](https://github.com/joshuaelmbla) |
-| Alacritty | [JhonnyRice](https://github.com/jhonnyrice) |
-| AwesomeWM | [JhonnyRice](https://github.com/jhonnyrice) |
-| i3 | [JhonnyRice](https://github.com/jhonnyrice) |
+| Alacritty | [Rice7th](https://github.com/Rice7th) |
+| AwesomeWM | [Rice7th](https://github.com/Rice7th) |
+| i3 | [Rice7th](https://github.com/Rice7th) |
 | iTerm2 | [Shahmilav](https://github.com/shahmilav) |
 | dwm | [Francicoria](https://github.com/francicoria) |
 | st | [Francicoria](https://github.com/francicoria) |
